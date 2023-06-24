@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+
 
 header{
     display: flex;
@@ -32,6 +33,7 @@ header ul{
 }
 header ul li {
     cursor: pointer;
+    font-family: 'Be Vietnam Pro', sans-serif;
 }
 main {
     overflow: hidden;
@@ -58,10 +60,13 @@ main {
 h1 {
     font-size:50px;
     max-width: 400px;
+    font-family: 'Be Vietnam Pro', sans-serif;
 }
 p {
     font-size:16.56px;
     max-width: 438px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+
 }
 button {
     Width :134px;
@@ -93,6 +98,7 @@ button:hover{
     color: #fff;
     font-size:36px;
     max-width: 450px;
+    font-family: 'Be Vietnam Pro', sans-serif;
     @media (min-width: 1250px) {
         padding: 0;
         padding-left: 77px;
@@ -147,7 +153,9 @@ button:hover{
     padding-inline: 28px;
 }
 h3 {
-    font-size:39.23px
+    font-size:39.23px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+
 }
 .fourth-article div{
     @media (min-width: 1250px) {
@@ -203,6 +211,7 @@ h3 {
     font-size:40px;
     color: #fff;
     width: 74%;
+    font-family: 'Be Vietnam Pro', sans-serif;
     @media (min-width: 1250px) {
         max-width: 400px;
     }
